@@ -7,6 +7,3 @@ Features
 - Product grid and image banners
 - Footer with multi-column links (like Amazon)
 - Personalized styling to make it unique
-
----
-
