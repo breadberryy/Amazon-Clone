@@ -1,4 +1,4 @@
-Amazon Clone (Front-End Only)
+# Amazon Clone (Front-End Only)
 
 This is a front-end clone of the Amazon homepage, built using only HTML and CSS. The goal of this project was to recreate the look and feel of a real-world e-commerce platform while focusing on clean layout, responsive design, and visual accuracy — all without JavaScript or a backend.
 
